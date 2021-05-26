@@ -1,0 +1,18 @@
+body{
+    background-color: darkgoldenrod;
+    color:darkolivegreen;
+}
+.heading{
+    width:80%;
+    font-size:25px;
+}
+#webcam{
+    border:ridge 4px yellow;
+    width:350px;
+    height:300px;
+}
+#resultobjectname,#resultobjectaccuracy,.name_of_objects{
+    color:red;
+    font-family: comicsans;
+
+}
